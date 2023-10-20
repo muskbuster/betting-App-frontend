@@ -1,0 +1,29 @@
+/* Navbar.css */
+.navbar {
+    background-color: #3498db; /* Set the background color */
+    padding: 10px 0; /* Add some vertical padding */
+  }
+  
+  .navbar-brand {
+    color: #fff; /* Change the text color of the brand */
+    font-size: 24px; /* Adjust the font size */
+    font-weight: bold; /* Make the text bold */
+  }
+  
+  /* Style the Connect Wallet button */
+  .navbar-btn {
+    margin-left: 10px; /* Add some spacing between the brand and the button */
+  }
+  
+  /* Change the background color and text color of the button */
+  .navbar-btn button {
+    background-color: #e74c3c;
+    color: #fff;
+    border: none; /* Remove the button border */
+  }
+  
+  /* On hover, darken the button color */
+  .navbar-btn button:hover {
+    background-color: #c0392b;
+  }
+  

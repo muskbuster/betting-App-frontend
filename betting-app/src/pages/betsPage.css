@@ -1,0 +1,25 @@
+/* AllBetsPage.css */
+.bet-cards {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .bet-card {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    width: 300px;
+    background-color: #fff;
+  }
+  
+  .bet-card h3 {
+    font-size: 20px;
+    margin: 0;
+  }
+  
+  .bet-card p {
+    margin-top: 5px;
+    font-size: 16px;
+  }
+  
